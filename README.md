@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PsychicDigit
+# Hi, I’m @PsychicDigit
 - I am a massive amatuer who is still learning, but I always do my best
 - When it comes to programming I am almost entirely self-taught
 - Mainly doin stuff in Python, but I know a bit of HTML too!
